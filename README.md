@@ -5,7 +5,9 @@ The script allows the user to speak to the assistant and receive a response. The
 
 To use the script, run it in a Python interpreter and follow the prompts. The assistant will listen for your input and respond accordingly.
 
+## Requirements
+A chromedriver is needed for 'searchchrome' functionalities to work
+
 Note: The script may not work properly if the required modules are not installed. To install the required modules, run the following command in your terminal:
 
 pip install -r requirements.txt
-*A chromedriver is needed for 'searchchrome' functionalities to work
