@@ -8,3 +8,4 @@ To use the script, run it in a Python interpreter and follow the prompts. The as
 Note: The script may not work properly if the required modules are not installed. To install the required modules, run the following command in your terminal:
 
 pip install -r requirements.txt
+*A chromedriver is needed for 'searchchrome' functionalities to work
